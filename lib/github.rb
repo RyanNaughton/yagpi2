@@ -10,12 +10,11 @@ class Github
 
   def self.random_nag
     [
-      "You better post the Pivotal ID or we won't be SOC 2 compliant!",
-      "Post the Pivotal ID or SOC 2 will sock you... in the face!",
+      "Be Fair to your coworkers and post the Pivotal ID!",
+      "You better post the Pivotal ID!",
       "Post the Pivotal ID or you're ruining this company!",
       "You've been in this company how long and don't have a Pivotal ID?",
       "Would you leave your house without your pants? Would you leave a PR without your Pivotal ID?",
-      "No Pivotal ID makes SOC 2 mad...",
       "No Pivotal ID in a PR is like not having an umbrella when it rains."
     ].sample
   end
